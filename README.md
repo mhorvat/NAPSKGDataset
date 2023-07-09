@@ -1,2 +1,4 @@
-# NAPSKGDataset
-NAPSKGDataset: NAPS Knowledge Graph Dataset
+# NAPSKGDataset: NAPS Knowledge Graph Dataset
+<b>Knowledge Graph Dataset for Semantic Enrichment of Picture Description in NAPS Database</b>
+
+In this data description, we introduce a unique manually developed knowledge graph (KG) dataset with detailed information about the relevant high-level semantics of visual stimuli to induce emotional states stored in the NAPS repository. The published dataset comprises KG annotations for 1,356 NAPS pictures in 5 categories linked with WordNet synsets and Suggested Upper Merged Ontology (SUMO) concepts. Both knowledge databases provide a rich and supervised glossary taxonomy suitable for describing image semantics. We also describe the process of data collection, processing, verification, and publication of the dataset as open data. The uniqueness of the KG dataset is that such a complex corpus containing objects, scenes, actions, and the overall context with a high level of detail has never been collected before. It could be applied in various research agendas in the study of emotion, attention and related phenomena and used thematically using selected semantic terms or concepts for various stimuli application domains. The dataset is available freely in common formats (MS Excel and CSV).
